@@ -10,4 +10,4 @@ plugins:
 
 title: "Docs for Thies"
 url: "https://h0ney-pixel.github.io"
-baseurl: "/docs"
+baseurl: "/docs.html"
