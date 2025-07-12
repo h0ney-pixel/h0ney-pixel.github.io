@@ -1,7 +1,5 @@
-docs:
-  - title: Getting Started
-    children:
-      - title: "docs"
-        url: /
-      - title: "test"
-        url: /test/
+main:
+  - title: "Getting Started"
+    url: /test
+  - title: "thiesketelsen"
+    url: /thiesketelsen
