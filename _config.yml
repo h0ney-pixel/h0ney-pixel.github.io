@@ -1,7 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 plugins:
-  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -9,5 +8,4 @@ plugins:
   - jekyll-include-cache
 
 title: "Docs for Thies"
-url: "https://h0ney-pixel.github.io"
-baseurl: "/docs.html"
+baseurl: "/docs"
