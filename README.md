@@ -1,3 +1,3 @@
-This is a mirror of my personal website [thiesketelsen.de](https://thiesketelsen.de).
+tbd
 
-It is very much inspired by [bestmotherfucking.website](https://bestmotherfucking.website).
+docs for my servers
