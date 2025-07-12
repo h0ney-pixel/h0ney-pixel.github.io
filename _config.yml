@@ -10,7 +10,9 @@ plugins:
   - jekyll-include-cache
 
 markdown: kramdown
+
 defaults:
+  # _docs
   - scope:
       path: ""
       type: docs
