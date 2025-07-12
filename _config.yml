@@ -1,5 +1,9 @@
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark
-
-plugins:
-  - jekyll-include-cache
+theme: minima
+minima:
+  skin: auto
+  nav_pages:
+    - docs.md
+    - test.md
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
