@@ -2,21 +2,9 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
   - jekyll-include-cache
 
 title: "Docs for Thies"
 
 atom_feed:
   hide: true
-
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
