@@ -8,4 +8,3 @@ plugins:
   - jekyll-include-cache
 
 title: "Docs for Thies"
-baseurl: "/docs"
