@@ -8,6 +8,10 @@ plugins:
   - jekyll-include-cache
 
 title: "Docs for Thies"
+baseurl: /docs
+
+atom_feed:
+  hide: true
 
 defaults:
   # _docs
