@@ -9,6 +9,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+markdown: kramdown
 defaults:
   - scope:
       path: ""
