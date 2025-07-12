@@ -1,0 +1,6 @@
+site_name: Test
+nav:
+    - Home: docs.md
+    - test: test.md
+    
+theme: readthedocs
