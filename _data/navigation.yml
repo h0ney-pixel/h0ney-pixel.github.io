@@ -1,7 +1,0 @@
-docs:
-  - title: Getting Started
-    children:
-      - title: "docs"
-        url: /docs
-      - title: "test"
-        url: /test
