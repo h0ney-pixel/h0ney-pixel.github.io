@@ -1,8 +1,6 @@
 ---
-title: "test"
+title: "Dokumentation Heimnetzwerk"
 ---
-
-# Dokumentation Heimnetzwerk
 
 Hier versuche ich zusammen zu schreiben, was für einen reibungslosen Betrieb der Netzwerk Komponenten nötig ist.
 
