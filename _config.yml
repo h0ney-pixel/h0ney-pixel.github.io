@@ -4,7 +4,7 @@ minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-include-cache
 
-title: "Docs for Thies"
+title: "Dokumentationen"
 
 include: ["_pages"]
 defaults:
