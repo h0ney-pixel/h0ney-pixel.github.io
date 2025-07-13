@@ -1,4 +1,8 @@
-# Dokumentation Heimneztwerk
+---
+title: "test"
+---
+
+# Dokumentation Heimnetzwerk
 
 Hier versuche ich zusammen zu schreiben, was für einen reibungslosen Betrieb der Netzwerk Komponenten nötig ist.
 
