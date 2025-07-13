@@ -1,12 +1,11 @@
-# Heading level 1
+# Dokumentation Heimneztwerk
 
-siughriugh
+Hier versuche ich zusammen zu schreiben, was für einen reibungslosen Betrieb der Netzwerk Komponenten nötig ist.
 
-## Heading level 2
+## Netzwerk Router Unifi Dream Machine Pro
 
-fregeriughg
+Der Unifi Router im Netzwerkregal ist das Herz des Hausnetzwerks. Dort werden alle Einstellungen für das Internet und das Netzwerk vorgenommen.
 
-### Heading level 3
+## Internet Modem Draytek Vigor 165
 
-girehfgbwrkbvri
-vrehrev
+Das Modem läuft im Bridge-Modus. Falls das Internet kann das Modem neugestartet werden, wenn das nicht hilft, liegt der Fehler wahrscheinlich bei der Telekom.
