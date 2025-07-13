@@ -9,7 +9,7 @@ Die beschriebenen Links müssen idR aus dem Heimnetz aufgerufen werden.
 
 Der Unifi Router im Netzwerkregal ist das Herz des Hausnetzwerks. Dort werden alle Einstellungen für das Internet und das Netzwerk vorgenommen.
 
-- Adresse: <a href="http://192.168.1.1" target="_blank">Unifi Router</a>
+- Adresse: <a href="https://192.168.1.1/network/default/dashboard" target="_blank">Unifi Router</a>
 - Passwort Eintrag: Ubiquiti Unifi
 
 ## Internet Modem Draytek Vigor 165
