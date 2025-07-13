@@ -3,6 +3,7 @@ title: "Dokumentation Heimnetzwerk"
 ---
 
 Hier versuche ich zusammen zu schreiben, was für einen reibungslosen Betrieb der Netzwerk Komponenten nötig ist.
+Die beschriebenen Links müssen idR aus dem Heimnetz aufgerufen werden.
 
 ## Netzwerk Router Unifi Dream Machine Pro
 
