@@ -18,3 +18,10 @@ Das Modem läuft im Bridge-Modus. Falls das Internet kann das Modem neugestartet
 
 - Adresse: <a href="http://192.168.1.111" target="_blank">Internet Modem</a>
 - Passwort Eintrag: Internet Modem Draytek
+
+## Home Assistant (Haus Automatisierung)
+
+Hier sind alle Smart-Home geräte ansprech- und steuerbar.
+
+- Adresse: <a href="http://192.168.1.247:8123/" target="_blank">Home Assistant</a>
+- Passwort Eintrag: Home Assistant
