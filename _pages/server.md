@@ -3,8 +3,8 @@ title: "Server Darkhold"
 permalink: /server/
 ---
 
-viueiuvberwiuvh
+Bei contabo in Nürnberg steht der VPS(Virtual Private Server) auf dem die Anwendungen laufen. 
 
-## server setup
+## Docker Setup
 
-adasd
+Docker compose files
