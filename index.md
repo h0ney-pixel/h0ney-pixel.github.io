@@ -11,7 +11,7 @@ Der Unifi Router im Netzwerkregal ist das Herz des Hausnetzwerks. Dort werden al
 
 - Adresse: <a href="https://192.168.1.1/network/default/dashboard" target="_blank">Unifi Router</a>
 - Passwort Eintrag: Ubiquiti Unifi
-- <a href="/udmpro/" target="_blank">Erweiterte Doku</a>
+- <a href="/udmpro/">Erweiterte Doku</a>
 
 ## Internet Modem Draytek Vigor 165
 
