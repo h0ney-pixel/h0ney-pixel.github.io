@@ -28,3 +28,4 @@ Hier sind alle Smart-Home Geräte ansprech- und steuerbar.
 - [Home Assistant](http://192.168.1.247:8123/)
 - Passwort Eintrag für Admin User: Home Assistant
 - Die meisten Geräte funktionieren auch ohne Internetverbindung
+- [Erweiterte Doku](/homeassistant/)
