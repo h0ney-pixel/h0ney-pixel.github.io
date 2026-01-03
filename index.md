@@ -2,12 +2,12 @@
 title: "Dokumentation Heimnetzwerk"
 ---
 
-Hier versuche ich zusammen zu schreiben, was für einen reibungslosen Betrieb der Netzwerk Komponenten nötig ist.  
-Die beschriebenen Links müssen idR aus dem Heimnetz aufgerufen werden.
+Hier schreibe ich zusammen, was für einen reibungslosen Betrieb der Netzwerk Komponenten nötig ist.  
+Die beschriebenen Links müssen in der Regel aus dem Heimnetz aufgerufen werden.
 
 ## Netzwerk Router 
 
-Der Unifi Router (Unifi Dream Machine Pro) im Netzwerkregal ist das Herz des Hausnetzwerks. Dort werden alle Einstellungen für das Internet und das Netzwerk vorgenommen.
+Der Router (Unifi Dream Machine Pro) im Netzwerkregal ist das Herz des Hausnetzwerks. Dort werden alle Einstellungen für das Internet und das Netzwerk vorgenommen.
 
 - [Unifi Router](https://192.168.1.1/network/default/dashboard)
 - Passwort Eintrag: Ubiquiti Unifi
