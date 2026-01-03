@@ -18,6 +18,8 @@ Die bereits getätigten Einstellungen sollten ausreichen, um eine Verbindung zum
 2. Unter "IPv6 Configuration" -> Disabled aktivieren
 3. Haken bei "Smart Queues" entfernen
 
+![Internet Einstellungen](_images/internet-settings.png)
+
 LTE Modem im Büro kann komplett abgebaut werden, ist nicht nötig für Betrieb.
 
 ## WLAN Einstellungen
