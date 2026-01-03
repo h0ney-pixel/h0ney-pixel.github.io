@@ -25,3 +25,7 @@ LTE Modem im Büro kann komplett abgebaut werden, ist nicht nötig für Betrieb.
 ## WLAN Einstellungen
 
 Unter den [WiFi Einstellungen](https://192.168.1.1/network/default/settings/wifi) kann der Name des WLANs und das Passwort dafür geändert werden, indem auf den Namen des WLANs oben geklickt wird. Die aktuellen Namen und Passwörter stehen im Passwortmanager unter "WLAN".
+
+Falls das WLAN nicht mehr funktionieren soll, obwohl eine Verbinung zum Internet besteht, können die Einstellungen und "Advanced" auf "Auto" gesetzt werden, damit sollte ein WLAN Netz aufgebaut werden.
+
+![WLAN Einstellungen](wifi-settings.png)
