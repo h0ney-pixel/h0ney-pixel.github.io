@@ -10,7 +10,7 @@ Unter "Konto verwalten" kann der Account bei Nabu Casa gekündigt werden. Die Lo
 
 ![Home Assistant Cloud Konto](homeassistantcloud.png)
 
-![Nabu Casa](nabucasa.png)
+![Nabu Casa](nabu-casa.png)
 
 ## Automationen
 
