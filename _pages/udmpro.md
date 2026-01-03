@@ -1,7 +1,9 @@
 ---
-title: "Router Dream Machine Pro"
+title: "Router (Dream Machine Pro)"
 permalink: /udmpro/
 ---
+
+Der Router steht im Server Schrank und ist der zweite Graue von oben, mit weniger LAN Dosen.
 
 ## Internet Einstellungen
 
