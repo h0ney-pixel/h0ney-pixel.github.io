@@ -15,17 +15,18 @@ Der Unifi Router (Unifi Dream Machine Pro) im Netzwerkregal ist das Herz des Hau
 
 ## Internet Modem
 
-Falls das Internet ausfällt, kann das Modem (Draytek Vigor 165) neugestartet werden, wenn das nicht hilft, liegt der Fehler wahrscheinlich bei der Telekom/Internet Anbieter. Das Modem läuft im Bridge-Modus.
+Falls das Internet ausfällt, kann das Modem (Draytek Vigor 165) neugestartet werden (Stecker ziehen), wenn das nicht hilft, liegt der Fehler wahrscheinlich bei der Telekom/Internet Anbieter.  
+Das Modem läuft im Bridge-Modus.
 
 - [Internet Modem](http://192.168.1.111)
 - Passwort Eintrag: Internet Modem Draytek
 - LTE Modem aus Backup, falls die Hauptleitung (Telekom) ausfällt. (Nicht nötig für normalen Betrieb)
 
-## Haus Steuerung Home Assistant
+## Haus Steuerung
 
-Hier sind alle Smart-Home Geräte ansprech- und steuerbar.
+Die Smart-Home Geräte und Tablet-Dashboards sind über Home Assistant steuerbar.
 
 - [Home Assistant](http://192.168.1.247:8123/)
 - Passwort Eintrag für Admin User: Home Assistant
-- Die meisten Geräte funktionieren auch ohne Internetverbindung
+- Die meisten (Hardware-) Geräte funktionieren auch ohne Internetverbindung (Ausnahmen: Kalendereinträge & Wetter)
 - [Erweiterte Doku](/homeassistant/)
