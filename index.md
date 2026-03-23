@@ -18,13 +18,13 @@ Unser Netzwerk besteht aus drei Haupt-Komponenten:
 
 ## 📍 Geräte & Zugangsdaten
 
-| Gerät | Was es macht | Web-Adresse | Benutzer | Passwort |
-|-------|--------------|-------------|----------|----------|
-| **Internet Modem** (Draytek) | Bringt Internet ins Haus | http://192.168.1.111 | admin | Internet Modem Draytek |
-| **Router** (Unifi Dream Machine Pro) | Verteilt Internet und WLAN | https://192.168.1.1 | admin | Ubiquiti Unifi |
-| **Home Assistant** | Steuert das ganze Smart Home | http://192.168.1.247:8123 | admin | Home Assistant |
+Die Zugangsdaten (Benutzername und Passwort) sind alle im Passwortmanager gespeichert.
 
-> 🔐 **Tipp:** Alle Passwörter sind auch im Passwortmanager gespeichert.
+| Gerät | Was es macht | Web-Adresse | Eintrag im Passwortmanager |
+|-------|--------------|-------------|----------------------------|
+| **Internet Modem** (Draytek) | Bringt Internet ins Haus | http://192.168.1.111 | Internet Modem Draytek |
+| **Router** (Unifi Dream Machine Pro) | Verteilt Internet und WLAN | https://192.168.1.1 | Ubiquiti Unifi |
+| **Home Assistant** | Steuert das ganze Smart Home | http://192.168.1.247:8123 | Home Assistant |
 
 ---
 
