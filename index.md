@@ -50,17 +50,11 @@ Nach dem Neustart prüfen: Geht das Internet wieder?
 
 ---
 
-### Schritt 3: Router neu starten
-Wenn das Modem okay ist, aber immer noch kein Internet:
-
-1. **Stecker ziehen** (vom Router, das ist das größere graue Gerät mit dem Bildschirm).
-2. **10 Sekunden warten**.
-3. Stecker wieder einstecken.
-4. Warten, bis der Router hochgefahren ist (ca. 1–2 Minuten).
+> **Hinweis:** Ein Router-Neustart bringt bei unserem Setup meist nichts, weil das Modem im Bridge-Modus läuft. Falls das Modem ordnungsgemäß funktioniert, sollte der Router automatisch online gehen.
 
 ---
 
-### Schritt 4: Im Zweifel bei der Telekom prüfen
+### Schritt 3: Im Zweifel bei der Telekom prüfen
 Manchmal liegt das Problem beim Internet-Anbieter. Du kannst auf der [Telekom Störungsseite](https://www.telekom.de/störungen) prüfen, ob es bekannte Probleme gibt.
 
 Wenn du dir unsicher bist oder nichts hilft: **Ruf mich an**. Ich helfe gerne!
